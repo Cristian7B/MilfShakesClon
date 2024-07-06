@@ -2,6 +2,7 @@ import { Nav } from "./components/Nav";
 import { Header } from "./components/Header"
 import { ProductView } from "./components/ProductView";
 import { Footer } from "./components/Footer";
+import { Analytics } from "@vercel/analytics/react"
 import "./App.css"
 
 const infoProduct = [
